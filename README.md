@@ -1,4 +1,4 @@
-- Hi, I’m Akilan GK. I am a Automation Test Engineer in ATMECS Technologies, Bangalore.
+- Hi, I’m Akilan GK. I am a Automation Test Engineer.
 
 - Skillset:
    * Programming Language - Java
