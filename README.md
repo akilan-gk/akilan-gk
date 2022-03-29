@@ -2,11 +2,10 @@
 
 - Skillset:
    * Programming Language - Java
-   * Frameworks - Selenium, TestNG
+   * Frameworks - Selenium, Appium, TestNG
    * Build Management Tool - Maven
    * Logging Framework - Log4j
    * Project Management Tool - Jira
-- 🌱 I’m currently learning Appium, an open-source framework used to test native, hybrid and web-apps.
 
 <!---
 akilan-gk/akilan-gk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
