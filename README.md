@@ -2,10 +2,12 @@
 
 - Skillset:
    * Programming Language - Java
-   * Frameworks - Selenium, Appium, TestNG
+   * Frameworks and Libraries - Selenium, Appium, TestNG, Rest Assured, Apache POI.
    * Build Management Tool - Maven
    * Logging Framework - Log4j
    * Project Management Tool - Jira
+   * CI/CD Tool - Jenkins
+   * Version Control System - Git
 
 <!---
 akilan-gk/akilan-gk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
